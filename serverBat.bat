@@ -1,2 +1,2 @@
-java -cp ".;jars\*" Server.Main
+java -cp ".;server\*" Server.Main
 
